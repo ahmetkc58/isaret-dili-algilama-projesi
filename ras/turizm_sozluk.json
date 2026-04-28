@@ -1,0 +1,14 @@
+{
+  "kelimeler": [
+    "MERHABA", "SELAM", "TESEKKUR", "LUTFEN", "TAMAM", "EVET", "HAYIR", "YARDIM", 
+    "ANLAMADIM", "REZERVASYON", "ANAHTAR", "ODA", "PASAPORT", "KIMLIK", "KAYIT", 
+    "GIRIS", "CIKIS", "VALIZ", "KASA", "MENU", "SIPARIS", "HESAP", "ALERJI", 
+    "SICAK", "SOGUK", "YEMEK", "ICECEK", "SU", "EKMEK", "TUZ", "TAKSI", "OTOBUS", 
+    "HAVALIMANI", "HARITA", "MERKEZ", "SAHIL", "MUZE", "METRO", "VAR", "BUYRUN", "YAPMAK",
+    "ISTEMEK", "GITMEK", "GELMEK", "GORMEK", "VE", "ICIN", "BURADA", "NASIL", "OLSUN", "NEREDE"
+  ],
+  "metadata": {
+    "toplam_kelime": 51,
+    "hedef_sektor": "Turizm"
+  }
+}

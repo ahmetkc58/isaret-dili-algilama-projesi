@@ -1,0 +1,19 @@
+# Ortam ve Derleme Dosyaları
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE Dosyaları
+.vscode/
+.idea/
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
+
+# Gereksiz büyük dosyalar (örneğin test videoları vb.)
+# Video Project 5.2.mp4
+*.mp4
+*.avi

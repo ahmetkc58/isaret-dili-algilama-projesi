@@ -1,0 +1,25 @@
+# --- Web Sunucusu ve API (FastAPI) ---
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+
+# --- Derin Öğrenme ve Model İşlemleri ---
+tensorflow>=2.10.0,<2.16.0
+numpy>=1.21.6
+h5py>=3.7.0
+
+# --- Görüntü İşleme ---
+opencv-python>=4.6.0.66
+
+# --- Akıllı Kelime Tahmini ve Analiz ---
+scikit-learn>=1.1.1
+pandas>=1.4.3
+scipy>=1.7.3
+
+# --- Görselleştirme (Opsiyonel - Raporlama için) ---
+matplotlib>=3.5.2
+seaborn>=0.11.2
+
+# --- Yardımcı Paketler ---
+pyttsx3>=2.90
+grpcio>=1.24.3

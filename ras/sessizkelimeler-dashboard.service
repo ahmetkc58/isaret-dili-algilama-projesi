@@ -1,0 +1,16 @@
+[Unit]
+Description=Sessiz Kelimeler Dashboard Service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=%h/sessizkelimeler/ras
+ExecStart=%h/sessizkelimeler/ras/run_dashboard_pi.sh
+Restart=always
+RestartSec=3
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
